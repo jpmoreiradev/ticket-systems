@@ -18,7 +18,8 @@ In this example, we have a TicketSystem class that manages ticket sales. It cont
 node script.js
 ```
 
-### Code
+### Code scprit.js
+
 ```javascript
 const userName = "João Pedro"
 const totalTickets = 100
